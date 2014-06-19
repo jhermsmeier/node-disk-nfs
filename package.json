@@ -1,0 +1,11 @@
+{
+  "name": "disk-nfs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/nfs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com>",
+  "license": "MIT"
+}
